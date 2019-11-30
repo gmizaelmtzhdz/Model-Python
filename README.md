@@ -1,6 +1,6 @@
 
 # Query Builder Python
-Modelo para conectarse a  bases de datos MySQL/MariaDB con Python.
+Generador de consultas: MySQL/MariaDB
 
 ## Dependencias
 * pip install pymysql
