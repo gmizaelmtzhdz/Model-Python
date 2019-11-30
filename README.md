@@ -10,6 +10,7 @@ Modelo para conectarse a  bases de datos MySQL/MariaDB con Python.
 ## Base de datos - Ejemplo
 Base de datos: **db**
 Tabla: **usuario**
+
 | Type | Name |
 | ------ | ----------- |
 |integer|id|
