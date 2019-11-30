@@ -3,6 +3,8 @@ from base_datos import *
 
 def main(argv):
     base_datos= Base_datos();
+    base_datos.setCredenciales("HOST", "USUARIO_BD", "PASSWORD_BD", "NOMBRE_BD")
+
 
 
     #SELECT
