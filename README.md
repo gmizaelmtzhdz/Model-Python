@@ -1,5 +1,5 @@
 
-# Modelo BD Python
+# Query Builder Python
 Modelo para conectarse a  bases de datos MySQL/MariaDB con Python.
 
 ## Dependencias
