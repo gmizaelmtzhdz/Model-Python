@@ -9,6 +9,7 @@ Generador de consultas: MySQL/MariaDB
 
 ## Base de datos - Ejemplo
 Base de datos: **db**
+
 Tabla: **usuario**
 
 | Type | Name |
